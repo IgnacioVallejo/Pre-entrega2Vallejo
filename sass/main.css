@@ -1,0 +1,60 @@
+/* selector { 
+    prpiedad: valor;
+}*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: #7cdaf9;
+}
+
+.flex-container {
+  padding: 10px;
+  display: flex;
+}
+
+.flex-item img {
+  width: 100%;
+  height: auto;
+  border: 2px solid black;
+}
+
+.parrafo {
+  width: 540px;
+  height: 440px;
+  padding: 20px 20px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.h3 {
+  color: white;
+  border: 6px solid black;
+}
+
+.footer {
+  width: 440px;
+  height: 350px;
+  padding: 15px 15px;
+}
+
+.contactos {
+  color: black;
+}
+
+.correo {
+  color: black;
+}
+
+.telefono {
+  color: black;
+}
+
+.info-de-nosotros {
+  background-color: white;
+  border: 5px solid black;
+}/*# sourceMappingURL=main.css.map */
