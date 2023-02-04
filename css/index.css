@@ -47,6 +47,7 @@ background-color: #fbe3e3;
 }
 
 .footer {
+ background-color: aqua;
   width: 440px;
   height: 350px;
   padding: 15px 15px;
@@ -64,7 +65,9 @@ background-color: #fbe3e3;
   color: black;
 }
 
-.info-de-nosotros{
-    background-color:  white;
-    border: 5px solid black;
+.test {
+  width: 75px;
+  height: 75px;
+  background-color: aqua;
 }
+  
