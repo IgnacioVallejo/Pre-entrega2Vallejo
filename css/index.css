@@ -1,73 +1,13 @@
-style>
-    header {
-        background-color: #f1e9f3;
-        border: 2px solid black;
-    }
-    header div {
-background-color: #b6ffff;
-    }
-    header div p {
-color: black;
-    }
-style>
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
+
+footer{
+    width: auto;
+    height: auto;
+    background-color: aqua;
 }
 
-body {
-background-color: #fbe3e3;
+.flex-item {
+    height: auto;
+    width: auto;
+    
 }
-
-.flex-container {
-  padding: 10px;
-  display: flex;
-}
-
-.flex-item img {
-  width: 100%;
-  height: auto;
-  border: 2px solid black;
-}
-
-.parrafo {
-  width: 540px;
-  height: 440px;
-  padding: 20px 20px;
-  font-size: 15px;
-  line-height: 1.5;
-}
-
-.h3 {
-  color: white;
-  border: 6px solid black;
-}
-
-.footer {
- background-color: aqua;
-  width: 440px;
-  height: 350px;
-  padding: 15px 15px;
-}
-
-.contactos {
-  color: black;
-}
-
-.correo {
-  color: black;
-}
-
-.telefono {
-  color: black;
-}
-
-.test {
-  width: 75px;
-  height: 75px;
-  background-color: aqua;
-}
-  
